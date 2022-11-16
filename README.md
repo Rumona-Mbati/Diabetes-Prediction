@@ -59,7 +59,7 @@ Start website using streamlit
 ## Contributing
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are greatly appreciated.
 
- - If you have suggestions for adding or removing projects, feel free to open an issue to discuss it, or directly create a pull request with the necessary changes.
+ - If you have suggestions for adding or removing something, feel free to open an issue to discuss it, or directly create a pull request with the necessary changes.
  - Create individual PR for each suggestion.
 
 ## License
