@@ -9,14 +9,15 @@ import matplotlib.pyplot as plt
 from sklearn.preprocessing import StandardScaler
 from sklearn.metrics import accuracy_score
 
+st.set_page_config(page_title='Diabetes Prediction System')
+
 diabetes_model = pickle.load(open('model.sav', 'rb'))
 
 
 # def diabetes_function(input_data):
 
-
 def main():
-    st.title('Diabetes Prediction')
+    st.title('Diabetes Prediction System')
 
     Pregnancies = st.text_input('Number of Pregnancies')
     Glucose = st.text_input('Glucose Level (mg/dL)')
